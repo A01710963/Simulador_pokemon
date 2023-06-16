@@ -6,7 +6,7 @@ El programa permite al usuario pelear contra un gimnasio pokemon.
 
 Consta con un menu con las opciones iniciales y corre sobre consola.
 
-## Consideracinoes
+## Consideraciones
 El programa no permite personalizar pokemones, habilidades, equipos ni entrenadores ya que este programa solo es de prueba.
 
 Para que el programa sirva de forma adecuada todos los atributos que son listas dentro de las clases deben tener al menos un valor.
